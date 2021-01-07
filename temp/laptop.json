@@ -1,0 +1,62 @@
+{
+ "id": "dd115c0e-cb68-48d9-b18e-7334d81389d6",
+ "brand": "Apple",
+ "name": "Macbook",
+ "cpu": {
+  "brand": "AMD",
+  "name": "Ryzen 5 PRO 3500U",
+  "numberCores": 2,
+  "numberThreads": 5,
+  "minGhz": 3.1064849654504787,
+  "maxGhz": 3.2896702059631293
+ },
+ "ram": {
+  "value": "13",
+  "unit": "GIGABYTE"
+ },
+ "gpus": [
+  {
+   "brand": "NVIDIA",
+   "name": "RTX 1660-Ti",
+   "minGhz": 1.1544332409538491,
+   "maxGhz": 1.2517580688046812,
+   "memory": {
+    "value": "4",
+    "unit": "GIGABYTE"
+   }
+  }
+ ],
+ "storages": [
+  {
+   "driver": "SSD",
+   "memory": {
+    "value": "866",
+    "unit": "GIGABYTE"
+   }
+  },
+  {
+   "driver": "HDD",
+   "memory": {
+    "value": "3221",
+    "unit": "GIGABYTE"
+   }
+  }
+ ],
+ "screen": {
+  "sizeInch": 13.819901,
+  "resolution": {
+   "width": 3132,
+   "height": 1762
+  },
+  "panel": "IPS",
+  "multitouch": true
+ },
+ "keyboard": {
+  "layout": "AZERTY",
+  "backlit": true
+ },
+ "weightKg": 1.4411516269442397,
+ "priceUsd": 2418.3948572258196,
+ "releaseYear": 2016,
+ "updateAt": "2021-01-06T08:59:04.458785300Z"
+}
